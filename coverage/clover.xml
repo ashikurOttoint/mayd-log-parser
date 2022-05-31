@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1654010558012" clover="3.2.0">
+  <project timestamp="1654010558012" name="All files">
+    <metrics statements="28" coveredstatements="26" conditionals="30" coveredconditionals="21" methods="16" coveredmethods="15" elements="74" coveredelements="62" complexity="0" loc="28" ncloc="28" packages="1" files="3" classes="3"/>
+    <file name="fileReader.ts" path="/Users/ashikur.rahaman/mayd-log-parser/src/helpers/fileReader.ts">
+      <metrics statements="9" coveredstatements="9" conditionals="1" coveredconditionals="1" methods="5" coveredmethods="5"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="fileWriter.ts" path="/Users/ashikur.rahaman/mayd-log-parser/src/helpers/fileWriter.ts">
+      <metrics statements="7" coveredstatements="5" conditionals="1" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="9" count="0" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+    </file>
+    <file name="textParser.ts" path="/Users/ashikur.rahaman/mayd-log-parser/src/helpers/textParser.ts">
+      <metrics statements="12" coveredstatements="12" conditionals="28" coveredconditionals="20" methods="7" coveredmethods="7"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="cond" truecount="7" falsecount="3"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
